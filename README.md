@@ -1,2 +1,9 @@
 # Heart-Disease-Detection-Machine-Learning-
 This project focuses on Heart Disease Detection using Machine Learning, leveraging medical data to predict the likelihood of heart disease. It includes data preprocessing, model training, and evaluation to deliver accurate and reliable predictions, showcasing practical applications of AI in healthcare.
+The dataset used in this project contains key medical attributes such as age, gender, chest pain type, blood pressure, cholesterol levels, fasting blood sugar, ECG results, heart rate, exercise-induced angina, and other relevant clinical indicators. These features were carefully analyzed, cleaned, and preprocessed to ensure data quality and consistency before model training.
+
+Multiple machine learning algorithms were implemented and evaluated, including Logistic Regression, Decision Trees, Random Forest, and other classification models. The models were trained to classify whether a patient is likely to have heart disease based on the provided medical parameters. Performance was evaluated using metrics such as accuracy, precision, recall, and confusion matrices to ensure reliable and interpretable results.
+
+Data preprocessing steps included handling missing values, encoding categorical variables, feature scaling, and splitting the dataset into training and testing sets. This ensured that the models generalized well to unseen data and avoided overfitting. Comparative analysis was performed to identify the most effective model based on performance metrics.
+
+This project demonstrates the practical application of machine learning in healthcare analytics, showcasing how predictive models can support medical decision-making. While not intended to replace professional medical diagnosis, the system highlights how AI can act as a supportive tool for early risk assessment.
